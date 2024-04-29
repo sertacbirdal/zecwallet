@@ -1,3 +1,4 @@
+
 ZecWallet Fullnode is a z-Addr first, Sapling compatible wallet and full node for zcashd that runs on Linux, Windows and macOS.
 
 ![Screenshot](resources/screenshot1.png?raw=true)
